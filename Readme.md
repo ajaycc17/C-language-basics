@@ -11,3 +11,6 @@ A complete overview of the basic concepts of C-language through some important p
 * Functions
 * Recursion
 * Pointers
+* Structure
+* Pointers with structures
+* File Handling
